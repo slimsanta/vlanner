@@ -1,5 +1,5 @@
 # vlanner
-quickly add multiple vlans to multiple switches via telnet
+quickly add multiple vlans to multiple switches via telnet - 'switchlist' is a file with a list of IPs pertinent to your switches
 
 
 ```
