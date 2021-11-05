@@ -1,5 +1,5 @@
 # vlanner
-quickly add multiple vlans to multiple switches 
+quickly add multiple vlans to multiple switches via telnet
 
 
 ```
